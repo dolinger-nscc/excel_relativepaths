@@ -1,1 +1,0 @@
-fPath = Excel.CurrentWorkbook(){[Name="vPaths"]}[Content]{4}[Column2],
