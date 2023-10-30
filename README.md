@@ -4,3 +4,5 @@ Using Power Query within Excel can create an issue with the link to the query br
 
 The video walkthrough can be seen [here](https://youtu.be/vgK1LVmxyYc).  
 
+**Note** Ensure your files (both .xlsx and data files) are not on a synchronized share such as OneDrive as the updates to the relative path can become "confused" and not work as expected.
+
